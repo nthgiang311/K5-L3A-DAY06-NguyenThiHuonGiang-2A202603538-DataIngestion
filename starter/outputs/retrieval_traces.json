@@ -1,0 +1,3310 @@
+[
+  {
+    "question_id": "Q01",
+    "split": "dev",
+    "question": "Theo tài liệu, một hàm số ánh xạ các phần tử từ miền xác định sang miền giá trị theo quy tắc nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 17,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p22_fixed_6",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 22,
+        "text": "x.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2705
+        },
+        "score": 0.17953280454482978
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p27_fixed_4",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 27,
+        "text": "of Functions 19",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1815
+        },
+        "score": 0.16907169889549034
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p19_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 19,
+        "text": "1",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1351
+        },
+        "score": 0.1460664396206809
+      }
+    ],
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q02",
+    "split": "dev",
+    "question": "Hai đầu vào khác nhau của một hàm có thể cho cùng một đầu ra không?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 17,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p27_fixed_4",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 27,
+        "text": "of Functions 19",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1815
+        },
+        "score": 0.1819879493727744
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p21_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 21,
+        "text": "iew of Functions 13",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1369
+        },
+        "score": 0.15618645679395093
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p36_fixed_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 36,
+        "text": "ea 56\nsquare units.\n28 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 979
+        },
+        "score": 0.12485516817240927
+      }
+    ],
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q03",
+    "split": "dev",
+    "question": "Khi một hàm được mô tả bằng phương trình nhưng không chỉ rõ miền xác định, tài liệu quy ước miền xác định như thế nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 17,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p27_fixed_4",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 27,
+        "text": "of Functions 19",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1815
+        },
+        "score": 0.20788176608790399
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p21_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 21,
+        "text": "iew of Functions 13",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1369
+        },
+        "score": 0.18685222228921128
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p22_fixed_6",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 22,
+        "text": "x.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2705
+        },
+        "score": 0.16115618281625643
+      }
+    ],
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q04",
+    "split": "dev",
+    "question": "Theo ví dụ về nhiệt độ trong ngày, nhiệt độ thay đổi theo thời gian như thế nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 21,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p27_fixed_4",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 27,
+        "text": "of Functions 19",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1815
+        },
+        "score": 0.16706027584908778
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p25_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 25,
+        "text": ".11).\n1.1 • Review of Functions 17",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1384
+        },
+        "score": 0.14272389455295265
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p21_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 21,
+        "text": "iew of Functions 13",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1369
+        },
+        "score": 0.13953200398480914
+      }
+    ],
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q05",
+    "split": "dev",
+    "question": "Làm thế nào để kiểm tra một tập hợp điểm trên mặt phẳng có biểu diễn đồ thị của hàm số hay không?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 23,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p27_fixed_4",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 27,
+        "text": "of Functions 19",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1815
+        },
+        "score": 0.1587710732954104
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p36_fixed_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 36,
+        "text": "ea 56\nsquare units.\n28 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 979
+        },
+        "score": 0.13894197344779968
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p38_fixed_5",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 38,
+        "text": "the\ngraph of the line falls as increases. In this case, is decreasing on If the line is horizontal.\n30 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "section": "1.2",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2410
+        },
+        "score": 0.13424455319377482
+      }
+    ],
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q06",
+    "split": "dev",
+    "question": "Muốn tìm các nghiệm (zeros) của một hàm số, ta cần giải phương trình nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 23,
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p23_fixed_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 23,
+        "text": "ution\na. To find the zeros, solve We discover that has one zero at\nb. The -intercept is given by\nc. Given that is a linear function of the form that passes through the points and we can\nsketch the graph of (Figure 1.9).\nFigure 1.9 The function is a line with\n-intercept and -intercept\nEXAMPLE 1.4\nUsing Zeros and -Intercepts to Sketch a Graph\nConsider the function\n1.1 • Review of Functions 15",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 843
+        },
+        "score": 0.16530147687499164
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p40_fixed_4",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 40,
+        "text": "not both zero. This form is more general because it allows for a vertical line,\nEXAMPLE 1.12\nFinding the Slope and Equations of Lines\nConsider the line passing through the points and as shown in Figure 1.17.\n32 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "section": "1.2",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2068
+        },
+        "score": 0.1403183746243013
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p42_fixed_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 42,
+        "text": "tion of degree is called a cubic function.\nPower Functions\nSome polynomial functions are power functions. A power function is any function of the form where and\nare any real numbers. The exponent in a power function can be any real number, but here we consider the case when\nthe exponent is a positive integer. (We consider other cases later.) If the exponent is a positive integer, then is\na polynomial. If is even, then is an even function because if is even. If is odd,\nthen is an odd function bec",
+        "metadata": {
+          "section": "1.2",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1489
+        },
+        "score": 0.13885955098689995
+      }
+    ],
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q07",
+    "split": "dev",
+    "question": "Một hàm số có thể tăng trên một khoảng và giảm trên một khoảng khác không?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 25,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p21_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 21,
+        "text": "iew of Functions 13",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1369
+        },
+        "score": 0.1193266844548787
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p19_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 19,
+        "text": "1",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1351
+        },
+        "score": 0.09852359601714655
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p27_fixed_4",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 27,
+        "text": "of Functions 19",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1815
+        },
+        "score": 0.07748559400525146
+      }
+    ],
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q08",
+    "split": "dev",
+    "question": "Theo ví dụ về hoạt động kinh doanh, lợi nhuận được xác định từ hàm doanh thu và hàm chi phí như thế nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 26,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p27_fixed_4",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 27,
+        "text": "of Functions 19",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1815
+        },
+        "score": 0.20289445484942736
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p25_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 25,
+        "text": ".11).\n1.1 • Review of Functions 17",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1384
+        },
+        "score": 0.17783392335964165
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p21_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 21,
+        "text": "iew of Functions 13",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1369
+        },
+        "score": 0.17542078568277475
+      }
+    ],
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q09",
+    "split": "dev",
+    "question": "Thứ tự hợp thành hai hàm số có ảnh hưởng đến kết quả không?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 29,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p21_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 21,
+        "text": "iew of Functions 13",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1369
+        },
+        "score": 0.13147965465425426
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p27_fixed_4",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 27,
+        "text": "of Functions 19",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1815
+        },
+        "score": 0.11919539456394967
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p25_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 25,
+        "text": ".11).\n1.1 • Review of Functions 17",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1384
+        },
+        "score": 0.11464006515502567
+      }
+    ],
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q10",
+    "split": "dev",
+    "question": "Ví dụ về giá khuyến mãi và phiếu giảm giá bổ sung minh họa nguyên tắc gì khi hợp thành hàm số?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 30,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p27_fixed_4",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 27,
+        "text": "of Functions 19",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1815
+        },
+        "score": 0.13485651404520804
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p25_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 25,
+        "text": ".11).\n1.1 • Review of Functions 17",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1384
+        },
+        "score": 0.13266735478238156
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p37_fixed_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 37,
+        "text": "he driver had to\nstop for gas if she has\ndriven a total of 578 mi.\n54 . [T] The volume V of a\nsphere depends on the\nlength of its radius as\nBecause\nEarth is not a perfect\nsphere, we can use the\nmean radius when\nmeasuring from the center\nto its surface. The mean\nradius is the average\ndistance from the physical\ncenter to the surface,\nbased on a large number\nof samples. Find the\nvolume of Earth with mean\nradius m.\n55 . [T] A certain bacterium\ngrows in culture in a\ncircular region. The radius\nof the",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2583
+        },
+        "score": 0.11897172069718143
+      }
+    ],
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q11",
+    "split": "dev",
+    "question": "Đồ thị của hàm số lẻ có tính đối xứng như thế nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 31,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p27_fixed_4",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 27,
+        "text": "of Functions 19",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1815
+        },
+        "score": 0.17548316194167324
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p25_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 25,
+        "text": ".11).\n1.1 • Review of Functions 17",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1384
+        },
+        "score": 0.12731921293380277
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p19_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 19,
+        "text": "1",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1351
+        },
+        "score": 0.1225902476134827
+      }
+    ],
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q12",
+    "split": "dev",
+    "question": "Miền xác định của hàm giá trị tuyệt đối là tập hợp nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 32,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p27_fixed_4",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 27,
+        "text": "of Functions 19",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1815
+        },
+        "score": 0.21360181922880106
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p19_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 19,
+        "text": "1",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1351
+        },
+        "score": 0.15726997126281805
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p24_fixed_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "e is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a table showing the height when Using the data from the table, determine\nthe domain for this function. That is, find the time when the ball hits the ground.\nb. Sketch a graph of\nSolution\na.\nTable 1.3 Height as a Function of Time\n16 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.15313571356109335
+      }
+    ],
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q13",
+    "split": "dev",
+    "question": "Đồ thị của một hàm tuyến tính có dạng hình gì?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 39,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p27_fixed_4",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 27,
+        "text": "of Functions 19",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1815
+        },
+        "score": 0.17103077941949518
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p19_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 19,
+        "text": "1",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1351
+        },
+        "score": 0.1535179225493718
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p25_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 25,
+        "text": ".11).\n1.1 • Review of Functions 17",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1384
+        },
+        "score": 0.13457497152239273
+      }
+    ],
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q14",
+    "split": "dev",
+    "question": "Dấu của hệ số góc cho biết hướng của đường thẳng như thế nào khi đi từ trái sang phải?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 39,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p27_fixed_4",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 27,
+        "text": "of Functions 19",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1815
+        },
+        "score": 0.12250996395886182
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p37_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 37,
+        "text": "in culture in a\ncircular region. The radius\nof the circle, measured in\ncentimeters, is given by\nwhere t is time measured\nin hours since a circle of a\n1-cm radius of the\nbacterium was put into the\nculture.\na. Express the area of the\nbacteria as a function of\ntime.\nb. Find the exact and\napproximate area of the\nbacterial culture in 3\nhours.\nc. Express the\ncircumference of the\nbacteria as a function of\ntime.\nd. Find the exact and\napproximate\ncircumference of the\nbacteria in 3 hours.\n56 . [T] An Amer",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2583
+        },
+        "score": 0.09828045378443895
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p37_fixed_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 37,
+        "text": "he driver had to\nstop for gas if she has\ndriven a total of 578 mi.\n54 . [T] The volume V of a\nsphere depends on the\nlength of its radius as\nBecause\nEarth is not a perfect\nsphere, we can use the\nmean radius when\nmeasuring from the center\nto its surface. The mean\nradius is the average\ndistance from the physical\ncenter to the surface,\nbased on a large number\nof samples. Find the\nvolume of Earth with mean\nradius m.\n55 . [T] A certain bacterium\ngrows in culture in a\ncircular region. The radius\nof the",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2583
+        },
+        "score": 0.09109210425066339
+      }
+    ],
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q15",
+    "split": "dev",
+    "question": "Trong dạng hàm tuyến tính được tài liệu trình bày, hệ số của biến và hệ số tự do lần lượt biểu thị điều gì?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 40,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p27_fixed_4",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 27,
+        "text": "of Functions 19",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1815
+        },
+        "score": 0.1703616577171294
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p25_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 25,
+        "text": ".11).\n1.1 • Review of Functions 17",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1384
+        },
+        "score": 0.1377058543142169
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p21_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 21,
+        "text": "iew of Functions 13",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1369
+        },
+        "score": 0.11778506242588349
+      }
+    ],
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q16",
+    "split": "test",
+    "question": "Vì sao một đường thẳng đứng không thể là đồ thị của một hàm số?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 40,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p27_fixed_4",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 27,
+        "text": "of Functions 19",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1815
+        },
+        "score": 0.15512510209530017
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p21_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 21,
+        "text": "iew of Functions 13",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1369
+        },
+        "score": 0.14092004719138296
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p22_fixed_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 22,
+        "text": "it is thrown until it hits the ground is given by the formula When dollars are invested in an\naccount at an annual interest rate compounded continuously, the amount of money after years is given by the\nformula Algebraic formulas are important tools to calculate function values. Often we also represent these\nfunctions visually in graph form.\nGiven an algebraic formula for a function the graph of is the set of points where is in the domain of\nand is in the range. To graph a function given by a fo",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2705
+        },
+        "score": 0.11759817644368575
+      }
+    ],
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q17",
+    "split": "test",
+    "question": "Một đa thức có bậc 2 được gọi là hàm gì?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 42,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p27_fixed_4",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 27,
+        "text": "of Functions 19",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1815
+        },
+        "score": 0.19691171068479396
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p25_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 25,
+        "text": ".11).\n1.1 • Review of Functions 17",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1384
+        },
+        "score": 0.16308601718628335
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p36_fixed_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 36,
+        "text": "ea 56\nsquare units.\n28 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 979
+        },
+        "score": 0.15208442509174347
+      }
+    ],
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q18",
+    "split": "test",
+    "question": "Khi đầu vào của hàm số tăng lớn, đồ thị tiến ngày càng gần đường tiệm cận ngang như thế nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 43,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p19_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 19,
+        "text": "1",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1351
+        },
+        "score": 0.14985663295646734
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p30_fixed_5",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 30,
+        "text": "unctions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2301
+        },
+        "score": 0.09540462101642899
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p27_fixed_4",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 27,
+        "text": "of Functions 19",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1815
+        },
+        "score": 0.09100180321921103
+      }
+    ],
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q19",
+    "split": "test",
+    "question": "Nếu không thể dễ dàng phân tích một đa thức bậc hai thành nhân tử để tìm nghiệm, tài liệu đề xuất sử dụng phương pháp nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 44,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p27_fixed_4",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 27,
+        "text": "of Functions 19",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1815
+        },
+        "score": 0.17868653789919164
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p21_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 21,
+        "text": "iew of Functions 13",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1369
+        },
+        "score": 0.15369452078060808
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p20_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 20,
+        "text": "13 85\n2 53 14 85\n3 52 15 83\n4 52 16 82\n5 55 17 80\nTable 1.1 Temperature as a Function of Time of Day\n12 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1510
+        },
+        "score": 0.13004224717365243
+      }
+    ],
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q20",
+    "split": "test",
+    "question": "Theo tài liệu, yếu tố nào quyết định hành vi ở vô cực của một đa thức?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 43,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p27_fixed_4",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 27,
+        "text": "of Functions 19",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1815
+        },
+        "score": 0.1829236229749176
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p25_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 25,
+        "text": ".11).\n1.1 • Review of Functions 17",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1384
+        },
+        "score": 0.15558540456469006
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p21_fixed_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 21,
+        "text": "iew of Functions 13",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1369
+        },
+        "score": 0.13932372214425492
+      }
+    ],
+    "strategy": "A",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q01",
+    "split": "dev",
+    "question": "Theo tài liệu, một hàm số ánh xạ các phần tử từ miền xác định sang miền giá trị theo quy tắc nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 17,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p32_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 32,
+        "text": "e at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1017
+        },
+        "score": 0.14903106999026894
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.1489778370274405
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p39_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 39,
+        "text": "from left to right. If the slope is zero, the line is horizontal. To calculate the slope of a\nline, we need to determine the ratio of the change in versus the change in To do so, we choose any two points\nand on the line and calculate In Figure 1.16, we see this ratio is independent of the points\nchosen.\nFigure 1.16 For any linear function, the slope is independent of the choice of points and\non the line.\nDefinition\nConsider line passing through points and Let and denote the\nchanges in and respec",
+        "metadata": {
+          "section": "1.2",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1485
+        },
+        "score": 0.1091856593378987
+      }
+    ],
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q02",
+    "split": "dev",
+    "question": "Hai đầu vào khác nhau của một hàm có thể cho cùng một đầu ra không?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 17,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.17432257984146027
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p31_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 31,
+        "text": "ne symmetric function that arises frequently is the absolute value function, written as The absolute value\nfunction is defined as\n(1.2)\nSome students describe this function by stating that it “makes everything positive.” By the definition of the absolute\nvalue function, we see that if then and if then However, for\nTherefore, it is more accurate to say that for all nonzero inputs, the output is positive, but if the output\nWe conclude that the range of the absolute value function is In Figure 1.14",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1190
+        },
+        "score": 0.13345321217458195
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ble showing the height when Using the data from the table, determine\nthe domain for this function. That is, find the time when the ball hits the ground.\nb. Sketch a graph of\nSolution\na.\nTable 1.3 Height as a Function of Time\n16 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.11763835742244999
+      }
+    ],
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q03",
+    "split": "dev",
+    "question": "Khi một hàm được mô tả bằng phương trình nhưng không chỉ rõ miền xác định, tài liệu quy ước miền xác định như thế nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 17,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.22739966213703156
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p32_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 32,
+        "text": "e at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1017
+        },
+        "score": 0.15232232795224643
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p31_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 31,
+        "text": "ne symmetric function that arises frequently is the absolute value function, written as The absolute value\nfunction is defined as\n(1.2)\nSome students describe this function by stating that it “makes everything positive.” By the definition of the absolute\nvalue function, we see that if then and if then However, for\nTherefore, it is more accurate to say that for all nonzero inputs, the output is positive, but if the output\nWe conclude that the range of the absolute value function is In Figure 1.14",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1190
+        },
+        "score": 0.10852262377738953
+      }
+    ],
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q04",
+    "split": "dev",
+    "question": "Theo ví dụ về nhiệt độ trong ngày, nhiệt độ thay đổi theo thời gian như thế nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 21,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.1246570274233818
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p37_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 37,
+        "text": "if the bill\nis $430.\n53 . [T] A vehicle has a 20-gal\ntank and gets 15 mpg. The\nnumber of miles N that can\nbe driven depends on the\namount of gas x in the\ntank.\na. Write a formula that\nmodels this situation.\nb. Determine the number\nof miles the vehicle can\ntravel on (i) a full tank of\ngas and (ii) 3/4 of a tank\nof gas.\nc. Determine the domain\nand range of the\nfunction.\nd. Determine how many\ntimes the driver had to\nstop for gas if she has\ndriven a total of 578 mi.\n54 . [T] The volume V of a\nsphere",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2583
+        },
+        "score": 0.10877312071483625
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p31_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 31,
+        "text": "ne symmetric function that arises frequently is the absolute value function, written as The absolute value\nfunction is defined as\n(1.2)\nSome students describe this function by stating that it “makes everything positive.” By the definition of the absolute\nvalue function, we see that if then and if then However, for\nTherefore, it is more accurate to say that for all nonzero inputs, the output is positive, but if the output\nWe conclude that the range of the absolute value function is In Figure 1.14",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1190
+        },
+        "score": 0.09464141726493835
+      }
+    ],
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q05",
+    "split": "dev",
+    "question": "Làm thế nào để kiểm tra một tập hợp điểm trên mặt phẳng có biểu diễn đồ thị của hàm số hay không?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 23,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.2024426907300949
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p28_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 28,
+        "text": "ich there exists a real number such that\nSolving this equation for we see that we need to satisfy\nwhich simplifies to\n20 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1177
+        },
+        "score": 0.1357249915599823
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_0",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "a. Find all zeros of\nb. Find the -intercept (if any).\nc. Sketch a graph of\nSolution\na. To find the zeros, solve This equation implies Since for all this\nequation has no solutions, and therefore has no zeros.\nb. The -intercept is given by\nc. To graph this function, we make a table of values. Since we need we need to choose values of We\nchoose values that make the square-root function easy to evaluate.\nTable 1.2\nMaking use of the table and knowing that, since the function is a square root, the gra",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.12558174507563558
+      }
+    ],
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q06",
+    "split": "dev",
+    "question": "Muốn tìm các nghiệm (zeros) của một hàm số, ta cần giải phương trình nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 23,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.18085912409004945
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p45_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 45,
+        "text": "tion we find\nTherefore, the zeros of are\niii. Combining the results from parts i. and ii., draw a rough sketch of\n1.2 • Basic Classes of Functions 37",
+        "metadata": {
+          "section": "1.2",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 649
+        },
+        "score": 0.14125940624652533
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p41_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 41,
+        "text": "onstant pace.\na. Describe the distance (in miles) Jessica runs as a linear function of her run time (in minutes).\nb. Sketch a graph of\nc. Interpret the meaning of the slope.\nSolution\na. At time Jessica is at her house, so At time minutes, Jessica has finished running mi, so\nThe slope of the linear function is\n1.2 • Basic Classes of Functions 33",
+        "metadata": {
+          "section": "1.2",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1346
+        },
+        "score": 0.13275109534701002
+      }
+    ],
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q07",
+    "split": "dev",
+    "question": "Một hàm số có thể tăng trên một khoảng và giảm trên một khoảng khác không?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 25,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.1676749587059021
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p40_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 40,
+        "text": "a linear function, the points on a nonvertical line can be described using the\nslope-intercept or point-slope equations. However, a vertical line does not represent the graph of a function and cannot\nbe expressed in either of these forms. Instead, a vertical line is described by the equation for some constant\nSince neither the slope-intercept form nor the point-slope form allows for vertical lines, we use the notation\nwhere are both not zero, to denote the standard form of a line.\nDefinition\nCo",
+        "metadata": {
+          "section": "1.2",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2068
+        },
+        "score": 0.0882789089347239
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p18_paragraph_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 18,
+        "text": "ned functions. For example, suppose we want to define a function with a domain that is the\nset of all real numbers such that for and for We denote this function by writing\nWhen evaluating this function for an input the equation to use depends on whether or For example,\nsince we use the fact that for and see that On the other hand, for\nwe use the fact that for and see that\nEXAMPLE 1.1\nEvaluating Functions\nFor the function evaluate\na.\nb.\nc.\nSolution\nSubstitute the given value for x in the formula",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2066
+        },
+        "score": 0.06403619796037674
+      }
+    ],
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q08",
+    "split": "dev",
+    "question": "Theo ví dụ về hoạt động kinh doanh, lợi nhuận được xác định từ hàm doanh thu và hàm chi phí như thế nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 26,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p18_paragraph_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 18,
+        "text": "ned functions. For example, suppose we want to define a function with a domain that is the\nset of all real numbers such that for and for We denote this function by writing\nWhen evaluating this function for an input the equation to use depends on whether or For example,\nsince we use the fact that for and see that On the other hand, for\nwe use the fact that for and see that\nEXAMPLE 1.1\nEvaluating Functions\nFor the function evaluate\na.\nb.\nc.\nSolution\nSubstitute the given value for x in the formula",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2066
+        },
+        "score": 0.148895865744599
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.131737239257262
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p31_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 31,
+        "text": "ne symmetric function that arises frequently is the absolute value function, written as The absolute value\nfunction is defined as\n(1.2)\nSome students describe this function by stating that it “makes everything positive.” By the definition of the absolute\nvalue function, we see that if then and if then However, for\nTherefore, it is more accurate to say that for all nonzero inputs, the output is positive, but if the output\nWe conclude that the range of the absolute value function is In Figure 1.14",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1190
+        },
+        "score": 0.11564271952851324
+      }
+    ],
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q09",
+    "split": "dev",
+    "question": "Thứ tự hợp thành hai hàm số có ảnh hưởng đến kết quả không?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 29,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.11819438636302948
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p19_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 19,
+        "text": "in the domain such that Let Then,\nif and only if\nSolving this equation for we see that must solve the equation\nSince such an could exist. Squaring both sides of this equation, we have\nTherefore, we need\nwhich implies\nWe just need to verify that is in the domain of Since the domain of consists of all real numbers greater\n1.1 • Review of Functions 11",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1351
+        },
+        "score": 0.08122319504938247
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ble showing the height when Using the data from the table, determine\nthe domain for this function. That is, find the time when the ball hits the ground.\nb. Sketch a graph of\nSolution\na.\nTable 1.3 Height as a Function of Time\n16 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.07820898294448853
+      }
+    ],
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q10",
+    "split": "dev",
+    "question": "Ví dụ về giá khuyến mãi và phiếu giảm giá bổ sung minh họa nguyên tắc gì khi hợp thành hàm số?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 30,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p37_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 37,
+        "text": "if the bill\nis $430.\n53 . [T] A vehicle has a 20-gal\ntank and gets 15 mpg. The\nnumber of miles N that can\nbe driven depends on the\namount of gas x in the\ntank.\na. Write a formula that\nmodels this situation.\nb. Determine the number\nof miles the vehicle can\ntravel on (i) a full tank of\ngas and (ii) 3/4 of a tank\nof gas.\nc. Determine the domain\nand range of the\nfunction.\nd. Determine how many\ntimes the driver had to\nstop for gas if she has\ndriven a total of 578 mi.\n54 . [T] The volume V of a\nsphere",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2583
+        },
+        "score": 0.12903136735967613
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.10130631923675537
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p19_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 19,
+        "text": "in the domain such that Let Then,\nif and only if\nSolving this equation for we see that must solve the equation\nSince such an could exist. Squaring both sides of this equation, we have\nTherefore, we need\nwhich implies\nWe just need to verify that is in the domain of Since the domain of consists of all real numbers greater\n1.1 • Review of Functions 11",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1351
+        },
+        "score": 0.07977457883661099
+      }
+    ],
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q11",
+    "split": "dev",
+    "question": "Đồ thị của hàm số lẻ có tính đối xứng như thế nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 31,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.10999445199949898
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p32_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 32,
+        "text": "e at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1017
+        },
+        "score": 0.10019541233195661
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p22_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 22,
+        "text": "the formula When dollars are invested in an\naccount at an annual interest rate compounded continuously, the amount of money after years is given by the\nformula Algebraic formulas are important tools to calculate function values. Often we also represent these\nfunctions visually in graph form.\nGiven an algebraic formula for a function the graph of is the set of points where is in the domain of\nand is in the range. To graph a function given by a formula, it is helpful to begin by using the formula",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2705
+        },
+        "score": 0.0972898362451694
+      }
+    ],
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q12",
+    "split": "dev",
+    "question": "Miền xác định của hàm giá trị tuyệt đối là tập hợp nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 32,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p32_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 32,
+        "text": "e at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1017
+        },
+        "score": 0.18311825100453216
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.15108136521800086
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ble showing the height when Using the data from the table, determine\nthe domain for this function. That is, find the time when the ball hits the ground.\nb. Sketch a graph of\nSolution\na.\nTable 1.3 Height as a Function of Time\n16 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.14051405900549285
+      }
+    ],
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q13",
+    "split": "dev",
+    "question": "Đồ thị của một hàm tuyến tính có dạng hình gì?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 39,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p32_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 32,
+        "text": "e at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1017
+        },
+        "score": 0.08958997043430994
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p20_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 20,
+        "text": "emperature\nevery hour for a 24-hour period starting at midnight. We let our input variable be the time after midnight, measured in\nhours, and the output variable be the temperature hours after midnight, measured in degrees Fahrenheit. We record\nour data in Table 1.1.\nHours after Midnight Temperature Hours after Midnight Temperature\n0 58 12 84\n1 54 13 85\n2 53 14 85\n3 52 15 83\n4 52 16 82\n5 55 17 80\nTable 1.1 Temperature as a Function of Time of Day\n12 1 • Functions and Graphs\nAccess for free at op",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1510
+        },
+        "score": 0.08274544282284735
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p40_paragraph_4",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 40,
+        "text": "re 1.17.\n32 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "section": "1.2",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2068
+        },
+        "score": 0.07573890234596137
+      }
+    ],
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q14",
+    "split": "dev",
+    "question": "Dấu của hệ số góc cho biết hướng của đường thẳng như thế nào khi đi từ trái sang phải?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 39,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.14552415907382965
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p37_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 37,
+        "text": "depends on the\nlength of its radius as\nBecause\nEarth is not a perfect\nsphere, we can use the\nmean radius when\nmeasuring from the center\nto its surface. The mean\nradius is the average\ndistance from the physical\ncenter to the surface,\nbased on a large number\nof samples. Find the\nvolume of Earth with mean\nradius m.\n55 . [T] A certain bacterium\ngrows in culture in a\ncircular region. The radius\nof the circle, measured in\ncentimeters, is given by\nwhere t is time measured\nin hours since a circle of a",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2583
+        },
+        "score": 0.07916651939353248
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p31_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 31,
+        "text": "ne symmetric function that arises frequently is the absolute value function, written as The absolute value\nfunction is defined as\n(1.2)\nSome students describe this function by stating that it “makes everything positive.” By the definition of the absolute\nvalue function, we see that if then and if then However, for\nTherefore, it is more accurate to say that for all nonzero inputs, the output is positive, but if the output\nWe conclude that the range of the absolute value function is In Figure 1.14",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1190
+        },
+        "score": 0.07739877700805664
+      }
+    ],
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q15",
+    "split": "dev",
+    "question": "Trong dạng hàm tuyến tính được tài liệu trình bày, hệ số của biến và hệ số tự do lần lượt biểu thị điều gì?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 40,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p22_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 22,
+        "text": "the formula When dollars are invested in an\naccount at an annual interest rate compounded continuously, the amount of money after years is given by the\nformula Algebraic formulas are important tools to calculate function values. Often we also represent these\nfunctions visually in graph form.\nGiven an algebraic formula for a function the graph of is the set of points where is in the domain of\nand is in the range. To graph a function given by a formula, it is helpful to begin by using the formula",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2705
+        },
+        "score": 0.1069695981433868
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p33_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 33,
+        "text": "−1 2 3 10\n0 1\n23 .\n−3 −15 1 −3\n−2 −12 2 0\n−1 −9 3 3\n0 −6\n24 .\n−3 1\n−2 0 2 2\n−1 3\n0 1\n1.1 • Review of Functions 25",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 613
+        },
+        "score": 0.1023377925157547
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p31_paragraph_0",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 31,
+        "text": "y-axis.\nIf for all in the domain of then is an odd function. An odd function is symmetric about the\norigin.\nEXAMPLE 1.10\nEven and Odd Functions\nDetermine whether each of the following functions is even, odd, or neither.\na.\nb.\nc.\nSolution\nTo determine whether a function is even or odd, we evaluate and compare it to f(x) and\na. Therefore, is even.\nb. Now, Furthermore, noting that\nwe see that Therefore, is neither even nor odd.\nc. Therefore, is odd.\n1.7 Determine whether is even, odd, or neither.\nO",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1190
+        },
+        "score": 0.10050583177735495
+      }
+    ],
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q16",
+    "split": "test",
+    "question": "Vì sao một đường thẳng đứng không thể là đồ thị của một hàm số?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 40,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.15492643415927887
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p22_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 22,
+        "text": "the formula When dollars are invested in an\naccount at an annual interest rate compounded continuously, the amount of money after years is given by the\nformula Algebraic formulas are important tools to calculate function values. Often we also represent these\nfunctions visually in graph form.\nGiven an algebraic formula for a function the graph of is the set of points where is in the domain of\nand is in the range. To graph a function given by a formula, it is helpful to begin by using the formula",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2705
+        },
+        "score": 0.10573850142176455
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p18_paragraph_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 18,
+        "text": "ned functions. For example, suppose we want to define a function with a domain that is the\nset of all real numbers such that for and for We denote this function by writing\nWhen evaluating this function for an input the equation to use depends on whether or For example,\nsince we use the fact that for and see that On the other hand, for\nwe use the fact that for and see that\nEXAMPLE 1.1\nEvaluating Functions\nFor the function evaluate\na.\nb.\nc.\nSolution\nSubstitute the given value for x in the formula",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2066
+        },
+        "score": 0.09746748208999634
+      }
+    ],
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q17",
+    "split": "test",
+    "question": "Một đa thức có bậc 2 được gọi là hàm gì?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 42,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.1603759527206421
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p32_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 32,
+        "text": "e at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1017
+        },
+        "score": 0.14832449565383843
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p33_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 33,
+        "text": "−1 2 3 10\n0 1\n23 .\n−3 −15 1 −3\n−2 −12 2 0\n−1 −9 3 3\n0 −6\n24 .\n−3 1\n−2 0 2 2\n−1 3\n0 1\n1.1 • Review of Functions 25",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 613
+        },
+        "score": 0.1393316090106964
+      }
+    ],
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q18",
+    "split": "test",
+    "question": "Khi đầu vào của hàm số tăng lớn, đồ thị tiến ngày càng gần đường tiệm cận ngang như thế nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 43,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p32_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 32,
+        "text": "e at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1017
+        },
+        "score": 0.08950375232078134
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.08938366174697876
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p28_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 28,
+        "text": "ich there exists a real number such that\nSolving this equation for we see that we need to satisfy\nwhich simplifies to\n20 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1177
+        },
+        "score": 0.08851739764213562
+      }
+    ],
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q19",
+    "split": "test",
+    "question": "Nếu không thể dễ dàng phân tích một đa thức bậc hai thành nhân tử để tìm nghiệm, tài liệu đề xuất sử dụng phương pháp nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 44,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.27078263337715713
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p32_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 32,
+        "text": "e at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1017
+        },
+        "score": 0.15138874633446386
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ble showing the height when Using the data from the table, determine\nthe domain for this function. That is, find the time when the ball hits the ground.\nb. Sketch a graph of\nSolution\na.\nTable 1.3 Height as a Function of Time\n16 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.12607002996980987
+      }
+    ],
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q20",
+    "split": "test",
+    "question": "Theo tài liệu, yếu tố nào quyết định hành vi ở vô cực của một đa thức?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 43,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.16915475313933204
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p32_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 32,
+        "text": "e at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1017
+        },
+        "score": 0.1368859247105212
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p31_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 31,
+        "text": "ne symmetric function that arises frequently is the absolute value function, written as The absolute value\nfunction is defined as\n(1.2)\nSome students describe this function by stating that it “makes everything positive.” By the definition of the absolute\nvalue function, we see that if then and if then However, for\nTherefore, it is more accurate to say that for all nonzero inputs, the output is positive, but if the output\nWe conclude that the range of the absolute value function is In Figure 1.14",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1190
+        },
+        "score": 0.12379885472066099
+      }
+    ],
+    "strategy": "B",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q01",
+    "split": "dev",
+    "question": "Theo tài liệu, một hàm số ánh xạ các phần tử từ miền xác định sang miền giá trị theo quy tắc nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 17,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p32_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 32,
+        "text": "e at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1017
+        },
+        "score": 0.14903106999026894
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.1489778370274405
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p39_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 39,
+        "text": "from left to right. If the slope is zero, the line is horizontal. To calculate the slope of a\nline, we need to determine the ratio of the change in versus the change in To do so, we choose any two points\nand on the line and calculate In Figure 1.16, we see this ratio is independent of the points\nchosen.\nFigure 1.16 For any linear function, the slope is independent of the choice of points and\non the line.\nDefinition\nConsider line passing through points and Let and denote the\nchanges in and respec",
+        "metadata": {
+          "section": "1.2",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1485
+        },
+        "score": 0.1091856593378987
+      }
+    ],
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q02",
+    "split": "dev",
+    "question": "Hai đầu vào khác nhau của một hàm có thể cho cùng một đầu ra không?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 17,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.17432257984146027
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p31_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 31,
+        "text": "ne symmetric function that arises frequently is the absolute value function, written as The absolute value\nfunction is defined as\n(1.2)\nSome students describe this function by stating that it “makes everything positive.” By the definition of the absolute\nvalue function, we see that if then and if then However, for\nTherefore, it is more accurate to say that for all nonzero inputs, the output is positive, but if the output\nWe conclude that the range of the absolute value function is In Figure 1.14",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1190
+        },
+        "score": 0.13345321217458195
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ble showing the height when Using the data from the table, determine\nthe domain for this function. That is, find the time when the ball hits the ground.\nb. Sketch a graph of\nSolution\na.\nTable 1.3 Height as a Function of Time\n16 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.11763835742244999
+      }
+    ],
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q03",
+    "split": "dev",
+    "question": "Khi một hàm được mô tả bằng phương trình nhưng không chỉ rõ miền xác định, tài liệu quy ước miền xác định như thế nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 17,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.22739966213703156
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p32_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 32,
+        "text": "e at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1017
+        },
+        "score": 0.15232232795224643
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p31_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 31,
+        "text": "ne symmetric function that arises frequently is the absolute value function, written as The absolute value\nfunction is defined as\n(1.2)\nSome students describe this function by stating that it “makes everything positive.” By the definition of the absolute\nvalue function, we see that if then and if then However, for\nTherefore, it is more accurate to say that for all nonzero inputs, the output is positive, but if the output\nWe conclude that the range of the absolute value function is In Figure 1.14",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1190
+        },
+        "score": 0.10852262377738953
+      }
+    ],
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q04",
+    "split": "dev",
+    "question": "Theo ví dụ về nhiệt độ trong ngày, nhiệt độ thay đổi theo thời gian như thế nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 21,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.1246570274233818
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p37_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 37,
+        "text": "if the bill\nis $430.\n53 . [T] A vehicle has a 20-gal\ntank and gets 15 mpg. The\nnumber of miles N that can\nbe driven depends on the\namount of gas x in the\ntank.\na. Write a formula that\nmodels this situation.\nb. Determine the number\nof miles the vehicle can\ntravel on (i) a full tank of\ngas and (ii) 3/4 of a tank\nof gas.\nc. Determine the domain\nand range of the\nfunction.\nd. Determine how many\ntimes the driver had to\nstop for gas if she has\ndriven a total of 578 mi.\n54 . [T] The volume V of a\nsphere",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2583
+        },
+        "score": 0.10877312071483625
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p31_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 31,
+        "text": "ne symmetric function that arises frequently is the absolute value function, written as The absolute value\nfunction is defined as\n(1.2)\nSome students describe this function by stating that it “makes everything positive.” By the definition of the absolute\nvalue function, we see that if then and if then However, for\nTherefore, it is more accurate to say that for all nonzero inputs, the output is positive, but if the output\nWe conclude that the range of the absolute value function is In Figure 1.14",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1190
+        },
+        "score": 0.09464141726493835
+      }
+    ],
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q05",
+    "split": "dev",
+    "question": "Làm thế nào để kiểm tra một tập hợp điểm trên mặt phẳng có biểu diễn đồ thị của hàm số hay không?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 23,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.2024426907300949
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p28_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 28,
+        "text": "ich there exists a real number such that\nSolving this equation for we see that we need to satisfy\nwhich simplifies to\n20 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1177
+        },
+        "score": 0.1357249915599823
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_0",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "a. Find all zeros of\nb. Find the -intercept (if any).\nc. Sketch a graph of\nSolution\na. To find the zeros, solve This equation implies Since for all this\nequation has no solutions, and therefore has no zeros.\nb. The -intercept is given by\nc. To graph this function, we make a table of values. Since we need we need to choose values of We\nchoose values that make the square-root function easy to evaluate.\nTable 1.2\nMaking use of the table and knowing that, since the function is a square root, the gra",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.12558174507563558
+      }
+    ],
+    "strategy": "C",
+    "applied_filter": {
+      "section": "1.1"
+    }
+  },
+  {
+    "question_id": "Q06",
+    "split": "dev",
+    "question": "Muốn tìm các nghiệm (zeros) của một hàm số, ta cần giải phương trình nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 23,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.18085912409004945
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p45_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 45,
+        "text": "tion we find\nTherefore, the zeros of are\niii. Combining the results from parts i. and ii., draw a rough sketch of\n1.2 • Basic Classes of Functions 37",
+        "metadata": {
+          "section": "1.2",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 649
+        },
+        "score": 0.14125940624652533
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p41_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 41,
+        "text": "onstant pace.\na. Describe the distance (in miles) Jessica runs as a linear function of her run time (in minutes).\nb. Sketch a graph of\nc. Interpret the meaning of the slope.\nSolution\na. At time Jessica is at her house, so At time minutes, Jessica has finished running mi, so\nThe slope of the linear function is\n1.2 • Basic Classes of Functions 33",
+        "metadata": {
+          "section": "1.2",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1346
+        },
+        "score": 0.13275109534701002
+      }
+    ],
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q07",
+    "split": "dev",
+    "question": "Một hàm số có thể tăng trên một khoảng và giảm trên một khoảng khác không?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 25,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.1676749587059021
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p40_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 40,
+        "text": "a linear function, the points on a nonvertical line can be described using the\nslope-intercept or point-slope equations. However, a vertical line does not represent the graph of a function and cannot\nbe expressed in either of these forms. Instead, a vertical line is described by the equation for some constant\nSince neither the slope-intercept form nor the point-slope form allows for vertical lines, we use the notation\nwhere are both not zero, to denote the standard form of a line.\nDefinition\nCo",
+        "metadata": {
+          "section": "1.2",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2068
+        },
+        "score": 0.0882789089347239
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p18_paragraph_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 18,
+        "text": "ned functions. For example, suppose we want to define a function with a domain that is the\nset of all real numbers such that for and for We denote this function by writing\nWhen evaluating this function for an input the equation to use depends on whether or For example,\nsince we use the fact that for and see that On the other hand, for\nwe use the fact that for and see that\nEXAMPLE 1.1\nEvaluating Functions\nFor the function evaluate\na.\nb.\nc.\nSolution\nSubstitute the given value for x in the formula",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2066
+        },
+        "score": 0.06403619796037674
+      }
+    ],
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q08",
+    "split": "dev",
+    "question": "Theo ví dụ về hoạt động kinh doanh, lợi nhuận được xác định từ hàm doanh thu và hàm chi phí như thế nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 26,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p18_paragraph_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 18,
+        "text": "ned functions. For example, suppose we want to define a function with a domain that is the\nset of all real numbers such that for and for We denote this function by writing\nWhen evaluating this function for an input the equation to use depends on whether or For example,\nsince we use the fact that for and see that On the other hand, for\nwe use the fact that for and see that\nEXAMPLE 1.1\nEvaluating Functions\nFor the function evaluate\na.\nb.\nc.\nSolution\nSubstitute the given value for x in the formula",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2066
+        },
+        "score": 0.148895865744599
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.131737239257262
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p31_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 31,
+        "text": "ne symmetric function that arises frequently is the absolute value function, written as The absolute value\nfunction is defined as\n(1.2)\nSome students describe this function by stating that it “makes everything positive.” By the definition of the absolute\nvalue function, we see that if then and if then However, for\nTherefore, it is more accurate to say that for all nonzero inputs, the output is positive, but if the output\nWe conclude that the range of the absolute value function is In Figure 1.14",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1190
+        },
+        "score": 0.11564271952851324
+      }
+    ],
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q09",
+    "split": "dev",
+    "question": "Thứ tự hợp thành hai hàm số có ảnh hưởng đến kết quả không?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 29,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.11819438636302948
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p19_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 19,
+        "text": "in the domain such that Let Then,\nif and only if\nSolving this equation for we see that must solve the equation\nSince such an could exist. Squaring both sides of this equation, we have\nTherefore, we need\nwhich implies\nWe just need to verify that is in the domain of Since the domain of consists of all real numbers greater\n1.1 • Review of Functions 11",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1351
+        },
+        "score": 0.08122319504938247
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ble showing the height when Using the data from the table, determine\nthe domain for this function. That is, find the time when the ball hits the ground.\nb. Sketch a graph of\nSolution\na.\nTable 1.3 Height as a Function of Time\n16 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.07820898294448853
+      }
+    ],
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q10",
+    "split": "dev",
+    "question": "Ví dụ về giá khuyến mãi và phiếu giảm giá bổ sung minh họa nguyên tắc gì khi hợp thành hàm số?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 30,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p37_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 37,
+        "text": "if the bill\nis $430.\n53 . [T] A vehicle has a 20-gal\ntank and gets 15 mpg. The\nnumber of miles N that can\nbe driven depends on the\namount of gas x in the\ntank.\na. Write a formula that\nmodels this situation.\nb. Determine the number\nof miles the vehicle can\ntravel on (i) a full tank of\ngas and (ii) 3/4 of a tank\nof gas.\nc. Determine the domain\nand range of the\nfunction.\nd. Determine how many\ntimes the driver had to\nstop for gas if she has\ndriven a total of 578 mi.\n54 . [T] The volume V of a\nsphere",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2583
+        },
+        "score": 0.12903136735967613
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.10130631923675537
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p19_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 19,
+        "text": "in the domain such that Let Then,\nif and only if\nSolving this equation for we see that must solve the equation\nSince such an could exist. Squaring both sides of this equation, we have\nTherefore, we need\nwhich implies\nWe just need to verify that is in the domain of Since the domain of consists of all real numbers greater\n1.1 • Review of Functions 11",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1351
+        },
+        "score": 0.07977457883661099
+      }
+    ],
+    "strategy": "C",
+    "applied_filter": {
+      "section": "1.1"
+    }
+  },
+  {
+    "question_id": "Q11",
+    "split": "dev",
+    "question": "Đồ thị của hàm số lẻ có tính đối xứng như thế nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 31,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.10999445199949898
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p32_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 32,
+        "text": "e at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1017
+        },
+        "score": 0.10019541233195661
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p22_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 22,
+        "text": "the formula When dollars are invested in an\naccount at an annual interest rate compounded continuously, the amount of money after years is given by the\nformula Algebraic formulas are important tools to calculate function values. Often we also represent these\nfunctions visually in graph form.\nGiven an algebraic formula for a function the graph of is the set of points where is in the domain of\nand is in the range. To graph a function given by a formula, it is helpful to begin by using the formula",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2705
+        },
+        "score": 0.0972898362451694
+      }
+    ],
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q12",
+    "split": "dev",
+    "question": "Miền xác định của hàm giá trị tuyệt đối là tập hợp nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 32,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p32_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 32,
+        "text": "e at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1017
+        },
+        "score": 0.18311825100453216
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.15108136521800086
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ble showing the height when Using the data from the table, determine\nthe domain for this function. That is, find the time when the ball hits the ground.\nb. Sketch a graph of\nSolution\na.\nTable 1.3 Height as a Function of Time\n16 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.14051405900549285
+      }
+    ],
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q13",
+    "split": "dev",
+    "question": "Đồ thị của một hàm tuyến tính có dạng hình gì?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 39,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p32_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 32,
+        "text": "e at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1017
+        },
+        "score": 0.08958997043430994
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p20_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 20,
+        "text": "emperature\nevery hour for a 24-hour period starting at midnight. We let our input variable be the time after midnight, measured in\nhours, and the output variable be the temperature hours after midnight, measured in degrees Fahrenheit. We record\nour data in Table 1.1.\nHours after Midnight Temperature Hours after Midnight Temperature\n0 58 12 84\n1 54 13 85\n2 53 14 85\n3 52 15 83\n4 52 16 82\n5 55 17 80\nTable 1.1 Temperature as a Function of Time of Day\n12 1 • Functions and Graphs\nAccess for free at op",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1510
+        },
+        "score": 0.08274544282284735
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p40_paragraph_4",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 40,
+        "text": "re 1.17.\n32 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "section": "1.2",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2068
+        },
+        "score": 0.07573890234596137
+      }
+    ],
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q14",
+    "split": "dev",
+    "question": "Dấu của hệ số góc cho biết hướng của đường thẳng như thế nào khi đi từ trái sang phải?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 39,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p43_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 43,
+        "text": "write as ∞ The line is a\nhorizontal asymptote for the function because the graph of the function gets closer to the line as gets\nlarger.\nFor other functions, the values may not approach a finite number but instead may become larger for all values of\nas they get larger. In that case, we say approaches infinity as approaches infinity,” and we write ∞ as\n∞ For example, for the function the outputs become larger as the inputs get larger. We can\nconclude that the function approaches infinity as appr",
+        "metadata": {
+          "section": "1.2",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1826
+        },
+        "score": 0.0741206482052803
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p39_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 39,
+        "text": "from left to right. If the slope is zero, the line is horizontal. To calculate the slope of a\nline, we need to determine the ratio of the change in versus the change in To do so, we choose any two points\nand on the line and calculate In Figure 1.16, we see this ratio is independent of the points\nchosen.\nFigure 1.16 For any linear function, the slope is independent of the choice of points and\non the line.\nDefinition\nConsider line passing through points and Let and denote the\nchanges in and respec",
+        "metadata": {
+          "section": "1.2",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1485
+        },
+        "score": 0.04861735925078392
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p38_paragraph_0",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 38,
+        "text": "57 . [T] The manager at a skateboard\nshop pays his workers a monthly\nsalary S of $750 plus a commission\nof $8.50 for each skateboard they\nsell.\na. Write a function that\nmodels a worker’s monthly\nsalary based on the number of\nskateboards x he or she sells.\nb. Find the monthly salary when a\nworker sells 25, 40, or 55\nskateboards.\nc. Use the INTERSECT feature on a\ngraphing calculator to determine\nthe number of skateboards that\nmust be sold for a worker to\nearn a monthly income of $1400.\n(Hint: Find",
+        "metadata": {
+          "section": "1.2",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2410
+        },
+        "score": 0.045754881709232476
+      }
+    ],
+    "strategy": "C",
+    "applied_filter": {
+      "section": "1.2"
+    }
+  },
+  {
+    "question_id": "Q15",
+    "split": "dev",
+    "question": "Trong dạng hàm tuyến tính được tài liệu trình bày, hệ số của biến và hệ số tự do lần lượt biểu thị điều gì?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 40,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p22_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 22,
+        "text": "the formula When dollars are invested in an\naccount at an annual interest rate compounded continuously, the amount of money after years is given by the\nformula Algebraic formulas are important tools to calculate function values. Often we also represent these\nfunctions visually in graph form.\nGiven an algebraic formula for a function the graph of is the set of points where is in the domain of\nand is in the range. To graph a function given by a formula, it is helpful to begin by using the formula",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2705
+        },
+        "score": 0.1069695981433868
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p33_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 33,
+        "text": "−1 2 3 10\n0 1\n23 .\n−3 −15 1 −3\n−2 −12 2 0\n−1 −9 3 3\n0 −6\n24 .\n−3 1\n−2 0 2 2\n−1 3\n0 1\n1.1 • Review of Functions 25",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 613
+        },
+        "score": 0.1023377925157547
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p31_paragraph_0",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 31,
+        "text": "y-axis.\nIf for all in the domain of then is an odd function. An odd function is symmetric about the\norigin.\nEXAMPLE 1.10\nEven and Odd Functions\nDetermine whether each of the following functions is even, odd, or neither.\na.\nb.\nc.\nSolution\nTo determine whether a function is even or odd, we evaluate and compare it to f(x) and\na. Therefore, is even.\nb. Now, Furthermore, noting that\nwe see that Therefore, is neither even nor odd.\nc. Therefore, is odd.\n1.7 Determine whether is even, odd, or neither.\nO",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1190
+        },
+        "score": 0.10050583177735495
+      }
+    ],
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q16",
+    "split": "test",
+    "question": "Vì sao một đường thẳng đứng không thể là đồ thị của một hàm số?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 40,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.15492643415927887
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p22_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 22,
+        "text": "the formula When dollars are invested in an\naccount at an annual interest rate compounded continuously, the amount of money after years is given by the\nformula Algebraic formulas are important tools to calculate function values. Often we also represent these\nfunctions visually in graph form.\nGiven an algebraic formula for a function the graph of is the set of points where is in the domain of\nand is in the range. To graph a function given by a formula, it is helpful to begin by using the formula",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2705
+        },
+        "score": 0.10573850142176455
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p18_paragraph_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 18,
+        "text": "ned functions. For example, suppose we want to define a function with a domain that is the\nset of all real numbers such that for and for We denote this function by writing\nWhen evaluating this function for an input the equation to use depends on whether or For example,\nsince we use the fact that for and see that On the other hand, for\nwe use the fact that for and see that\nEXAMPLE 1.1\nEvaluating Functions\nFor the function evaluate\na.\nb.\nc.\nSolution\nSubstitute the given value for x in the formula",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2066
+        },
+        "score": 0.09746748208999634
+      }
+    ],
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q17",
+    "split": "test",
+    "question": "Một đa thức có bậc 2 được gọi là hàm gì?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 42,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.1603759527206421
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p32_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 32,
+        "text": "e at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1017
+        },
+        "score": 0.14832449565383843
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p33_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 33,
+        "text": "−1 2 3 10\n0 1\n23 .\n−3 −15 1 −3\n−2 −12 2 0\n−1 −9 3 3\n0 −6\n24 .\n−3 1\n−2 0 2 2\n−1 3\n0 1\n1.1 • Review of Functions 25",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 613
+        },
+        "score": 0.1393316090106964
+      }
+    ],
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q18",
+    "split": "test",
+    "question": "Khi đầu vào của hàm số tăng lớn, đồ thị tiến ngày càng gần đường tiệm cận ngang như thế nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 43,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p40_paragraph_4",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 40,
+        "text": "re 1.17.\n32 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "section": "1.2",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2068
+        },
+        "score": 0.07832162360420103
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p38_paragraph_4",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 38,
+        "text": "ear function. Linear functions have the form where and\nare constants. In Figure 1.15, we see examples of linear functions when is positive, negative, and zero. Note that if\nthe graph of the line rises as increases. In other words, is increasing on If the\ngraph of the line falls as increases. In this case, is decreasing on If the line is horizontal.\n30 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "section": "1.2",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2410
+        },
+        "score": 0.0470033660531044
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p40_paragraph_3",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 40,
+        "text": "nsider a line passing through the point with slope The equation\n(1.4)\nis the point-slope equation for that line.\nConsider a line with slope and -intercept The equation\n(1.5)\nis an equation for that line in slope-intercept form.\nThe standard form of a line is given by the equation\n(1.6)\nwhere and are not both zero. This form is more general because it allows for a vertical line,\nEXAMPLE 1.12\nFinding the Slope and Equations of Lines\nConsider the line passing through the points and as shown in Figu",
+        "metadata": {
+          "section": "1.2",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 2068
+        },
+        "score": 0.044419196580696374
+      }
+    ],
+    "strategy": "C",
+    "applied_filter": {
+      "section": "1.2"
+    }
+  },
+  {
+    "question_id": "Q19",
+    "split": "test",
+    "question": "Nếu không thể dễ dàng phân tích một đa thức bậc hai thành nhân tử để tìm nghiệm, tài liệu đề xuất sử dụng phương pháp nào?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 44,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.27078263337715713
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p32_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 32,
+        "text": "e at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1017
+        },
+        "score": 0.15138874633446386
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ble showing the height when Using the data from the table, determine\nthe domain for this function. That is, find the time when the ball hits the ground.\nb. Sketch a graph of\nSolution\na.\nTable 1.3 Height as a Function of Time\n16 1 • Functions and Graphs\nAccess for free at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.12607002996980987
+      }
+    ],
+    "strategy": "C",
+    "applied_filter": null
+  },
+  {
+    "question_id": "Q20",
+    "split": "test",
+    "question": "Theo tài liệu, yếu tố nào quyết định hành vi ở vô cực của một đa thức?",
+    "gold_source_id": "openstax_calculus_v1",
+    "gold_page": 43,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "retrieved_hits": [
+      {
+        "chunk_id": "openstax_calculus_v1_p24_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 24,
+        "text": "ph of should be similar to the\ngraph of we sketch the graph (Figure 1.10).\nFigure 1.10 The graph of has a\n-intercept but no -intercepts.\n1.3 Find the zeros of\nEXAMPLE 1.5\nFinding the Height of a Free-Falling Object\nIf a ball is dropped from a height of ft, its height at time is given by the function where is\nmeasured in feet and is measured in seconds. The domain is restricted to the interval where is the time\nwhen the ball is dropped and is the time when the ball hits the ground.\na. Create a ta",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1284
+        },
+        "score": 0.16915475313933204
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p32_paragraph_2",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 32,
+        "text": "e at openstax.org",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1017
+        },
+        "score": 0.1368859247105212
+      },
+      {
+        "chunk_id": "openstax_calculus_v1_p31_paragraph_1",
+        "document_id": "openstax_calculus_v1",
+        "source": "OpenStax Calculus Volume 1",
+        "page": 31,
+        "text": "ne symmetric function that arises frequently is the absolute value function, written as The absolute value\nfunction is defined as\n(1.2)\nSome students describe this function by stating that it “makes everything positive.” By the definition of the absolute\nvalue function, we see that if then and if then However, for\nTherefore, it is more accurate to say that for all nonzero inputs, the output is positive, but if the output\nWe conclude that the range of the absolute value function is In Figure 1.14",
+        "metadata": {
+          "section": "1.1",
+          "has_text": true,
+          "page_type": "text",
+          "character_count": 1190
+        },
+        "score": 0.12379885472066099
+      }
+    ],
+    "strategy": "C",
+    "applied_filter": null
+  }
+]

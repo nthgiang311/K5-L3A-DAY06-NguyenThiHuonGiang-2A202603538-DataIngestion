@@ -1,0 +1,46 @@
+﻿strategy,question_id,rank,chunk_id,document_id,source,page,section,score,filter
+A,Q16,1,openstax_calculus_v1_p27_fixed_4,openstax_calculus_v1,OpenStax Calculus Volume 1,27,1.1,0.15512510209530017,null
+A,Q16,2,openstax_calculus_v1_p21_fixed_3,openstax_calculus_v1,OpenStax Calculus Volume 1,21,1.1,0.14092004719138296,null
+A,Q16,3,openstax_calculus_v1_p22_fixed_1,openstax_calculus_v1,OpenStax Calculus Volume 1,22,1.1,0.11759817644368575,null
+A,Q17,1,openstax_calculus_v1_p27_fixed_4,openstax_calculus_v1,OpenStax Calculus Volume 1,27,1.1,0.19691171068479396,null
+A,Q17,2,openstax_calculus_v1_p25_fixed_3,openstax_calculus_v1,OpenStax Calculus Volume 1,25,1.1,0.16308601718628335,null
+A,Q17,3,openstax_calculus_v1_p36_fixed_2,openstax_calculus_v1,OpenStax Calculus Volume 1,36,1.1,0.15208442509174347,null
+A,Q18,1,openstax_calculus_v1_p19_fixed_3,openstax_calculus_v1,OpenStax Calculus Volume 1,19,1.1,0.14985663295646734,null
+A,Q18,2,openstax_calculus_v1_p30_fixed_5,openstax_calculus_v1,OpenStax Calculus Volume 1,30,1.1,0.09540462101642899,null
+A,Q18,3,openstax_calculus_v1_p27_fixed_4,openstax_calculus_v1,OpenStax Calculus Volume 1,27,1.1,0.09100180321921103,null
+A,Q19,1,openstax_calculus_v1_p27_fixed_4,openstax_calculus_v1,OpenStax Calculus Volume 1,27,1.1,0.17868653789919164,null
+A,Q19,2,openstax_calculus_v1_p21_fixed_3,openstax_calculus_v1,OpenStax Calculus Volume 1,21,1.1,0.15369452078060808,null
+A,Q19,3,openstax_calculus_v1_p20_fixed_3,openstax_calculus_v1,OpenStax Calculus Volume 1,20,1.1,0.13004224717365243,null
+A,Q20,1,openstax_calculus_v1_p27_fixed_4,openstax_calculus_v1,OpenStax Calculus Volume 1,27,1.1,0.1829236229749176,null
+A,Q20,2,openstax_calculus_v1_p25_fixed_3,openstax_calculus_v1,OpenStax Calculus Volume 1,25,1.1,0.15558540456469006,null
+A,Q20,3,openstax_calculus_v1_p21_fixed_3,openstax_calculus_v1,OpenStax Calculus Volume 1,21,1.1,0.13932372214425492,null
+B,Q16,1,openstax_calculus_v1_p24_paragraph_1,openstax_calculus_v1,OpenStax Calculus Volume 1,24,1.1,0.15492643415927887,null
+B,Q16,2,openstax_calculus_v1_p22_paragraph_1,openstax_calculus_v1,OpenStax Calculus Volume 1,22,1.1,0.10573850142176455,null
+B,Q16,3,openstax_calculus_v1_p18_paragraph_3,openstax_calculus_v1,OpenStax Calculus Volume 1,18,1.1,0.09746748208999634,null
+B,Q17,1,openstax_calculus_v1_p24_paragraph_1,openstax_calculus_v1,OpenStax Calculus Volume 1,24,1.1,0.1603759527206421,null
+B,Q17,2,openstax_calculus_v1_p32_paragraph_2,openstax_calculus_v1,OpenStax Calculus Volume 1,32,1.1,0.14832449565383843,null
+B,Q17,3,openstax_calculus_v1_p33_paragraph_1,openstax_calculus_v1,OpenStax Calculus Volume 1,33,1.1,0.1393316090106964,null
+B,Q18,1,openstax_calculus_v1_p32_paragraph_2,openstax_calculus_v1,OpenStax Calculus Volume 1,32,1.1,0.08950375232078134,null
+B,Q18,2,openstax_calculus_v1_p24_paragraph_1,openstax_calculus_v1,OpenStax Calculus Volume 1,24,1.1,0.08938366174697876,null
+B,Q18,3,openstax_calculus_v1_p28_paragraph_2,openstax_calculus_v1,OpenStax Calculus Volume 1,28,1.1,0.08851739764213562,null
+B,Q19,1,openstax_calculus_v1_p24_paragraph_1,openstax_calculus_v1,OpenStax Calculus Volume 1,24,1.1,0.27078263337715713,null
+B,Q19,2,openstax_calculus_v1_p32_paragraph_2,openstax_calculus_v1,OpenStax Calculus Volume 1,32,1.1,0.15138874633446386,null
+B,Q19,3,openstax_calculus_v1_p24_paragraph_2,openstax_calculus_v1,OpenStax Calculus Volume 1,24,1.1,0.12607002996980987,null
+B,Q20,1,openstax_calculus_v1_p24_paragraph_1,openstax_calculus_v1,OpenStax Calculus Volume 1,24,1.1,0.16915475313933204,null
+B,Q20,2,openstax_calculus_v1_p32_paragraph_2,openstax_calculus_v1,OpenStax Calculus Volume 1,32,1.1,0.1368859247105212,null
+B,Q20,3,openstax_calculus_v1_p31_paragraph_1,openstax_calculus_v1,OpenStax Calculus Volume 1,31,1.1,0.12379885472066099,null
+C,Q16,1,openstax_calculus_v1_p24_paragraph_1,openstax_calculus_v1,OpenStax Calculus Volume 1,24,1.1,0.15492643415927887,null
+C,Q16,2,openstax_calculus_v1_p22_paragraph_1,openstax_calculus_v1,OpenStax Calculus Volume 1,22,1.1,0.10573850142176455,null
+C,Q16,3,openstax_calculus_v1_p18_paragraph_3,openstax_calculus_v1,OpenStax Calculus Volume 1,18,1.1,0.09746748208999634,null
+C,Q17,1,openstax_calculus_v1_p24_paragraph_1,openstax_calculus_v1,OpenStax Calculus Volume 1,24,1.1,0.1603759527206421,null
+C,Q17,2,openstax_calculus_v1_p32_paragraph_2,openstax_calculus_v1,OpenStax Calculus Volume 1,32,1.1,0.14832449565383843,null
+C,Q17,3,openstax_calculus_v1_p33_paragraph_1,openstax_calculus_v1,OpenStax Calculus Volume 1,33,1.1,0.1393316090106964,null
+C,Q18,1,openstax_calculus_v1_p40_paragraph_4,openstax_calculus_v1,OpenStax Calculus Volume 1,40,1.2,0.07832162360420103,"{""section"": ""1.2""}"
+C,Q18,2,openstax_calculus_v1_p38_paragraph_4,openstax_calculus_v1,OpenStax Calculus Volume 1,38,1.2,0.0470033660531044,"{""section"": ""1.2""}"
+C,Q18,3,openstax_calculus_v1_p40_paragraph_3,openstax_calculus_v1,OpenStax Calculus Volume 1,40,1.2,0.044419196580696374,"{""section"": ""1.2""}"
+C,Q19,1,openstax_calculus_v1_p24_paragraph_1,openstax_calculus_v1,OpenStax Calculus Volume 1,24,1.1,0.27078263337715713,null
+C,Q19,2,openstax_calculus_v1_p32_paragraph_2,openstax_calculus_v1,OpenStax Calculus Volume 1,32,1.1,0.15138874633446386,null
+C,Q19,3,openstax_calculus_v1_p24_paragraph_2,openstax_calculus_v1,OpenStax Calculus Volume 1,24,1.1,0.12607002996980987,null
+C,Q20,1,openstax_calculus_v1_p24_paragraph_1,openstax_calculus_v1,OpenStax Calculus Volume 1,24,1.1,0.16915475313933204,null
+C,Q20,2,openstax_calculus_v1_p32_paragraph_2,openstax_calculus_v1,OpenStax Calculus Volume 1,32,1.1,0.1368859247105212,null
+C,Q20,3,openstax_calculus_v1_p31_paragraph_1,openstax_calculus_v1,OpenStax Calculus Volume 1,31,1.1,0.12379885472066099,null

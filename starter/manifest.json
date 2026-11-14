@@ -1,0 +1,164 @@
+{
+  "sources": [
+    {
+      "source_id": "openstax_calculus_v1",
+      "title": "OpenStax Calculus Volume 1",
+      "source_path_or_url": "data/calculus-volume-1_-_WEB.pdf",
+      "license_or_permission": "CC BY-NC-SA 4.0",
+      "accessed_at": "2026-11-13",
+      "pages": [
+        {
+          "page_id": "openstax_calculus_v1_p16",
+          "page_number": 16,
+          "character_count": 3232
+        },
+        {
+          "page_id": "openstax_calculus_v1_p17",
+          "page_number": 17,
+          "character_count": 1767
+        },
+        {
+          "page_id": "openstax_calculus_v1_p18",
+          "page_number": 18,
+          "character_count": 2066
+        },
+        {
+          "page_id": "openstax_calculus_v1_p19",
+          "page_number": 19,
+          "character_count": 1351
+        },
+        {
+          "page_id": "openstax_calculus_v1_p20",
+          "page_number": 20,
+          "character_count": 1510
+        },
+        {
+          "page_id": "openstax_calculus_v1_p21",
+          "page_number": 21,
+          "character_count": 1369
+        },
+        {
+          "page_id": "openstax_calculus_v1_p22",
+          "page_number": 22,
+          "character_count": 2705
+        },
+        {
+          "page_id": "openstax_calculus_v1_p23",
+          "page_number": 23,
+          "character_count": 843
+        },
+        {
+          "page_id": "openstax_calculus_v1_p24",
+          "page_number": 24,
+          "character_count": 1284
+        },
+        {
+          "page_id": "openstax_calculus_v1_p25",
+          "page_number": 25,
+          "character_count": 1384
+        },
+        {
+          "page_id": "openstax_calculus_v1_p26",
+          "page_number": 26,
+          "character_count": 1191
+        },
+        {
+          "page_id": "openstax_calculus_v1_p27",
+          "page_number": 27,
+          "character_count": 1815
+        },
+        {
+          "page_id": "openstax_calculus_v1_p28",
+          "page_number": 28,
+          "character_count": 1177
+        },
+        {
+          "page_id": "openstax_calculus_v1_p29",
+          "page_number": 29,
+          "character_count": 1095
+        },
+        {
+          "page_id": "openstax_calculus_v1_p30",
+          "page_number": 30,
+          "character_count": 2301
+        },
+        {
+          "page_id": "openstax_calculus_v1_p31",
+          "page_number": 31,
+          "character_count": 1190
+        },
+        {
+          "page_id": "openstax_calculus_v1_p32",
+          "page_number": 32,
+          "character_count": 1017
+        },
+        {
+          "page_id": "openstax_calculus_v1_p33",
+          "page_number": 33,
+          "character_count": 613
+        },
+        {
+          "page_id": "openstax_calculus_v1_p34",
+          "page_number": 34,
+          "character_count": 866
+        },
+        {
+          "page_id": "openstax_calculus_v1_p35",
+          "page_number": 35,
+          "character_count": 359
+        },
+        {
+          "page_id": "openstax_calculus_v1_p36",
+          "page_number": 36,
+          "character_count": 979
+        },
+        {
+          "page_id": "openstax_calculus_v1_p37",
+          "page_number": 37,
+          "character_count": 2583
+        },
+        {
+          "page_id": "openstax_calculus_v1_p38",
+          "page_number": 38,
+          "character_count": 2410
+        },
+        {
+          "page_id": "openstax_calculus_v1_p39",
+          "page_number": 39,
+          "character_count": 1485
+        },
+        {
+          "page_id": "openstax_calculus_v1_p40",
+          "page_number": 40,
+          "character_count": 2068
+        },
+        {
+          "page_id": "openstax_calculus_v1_p41",
+          "page_number": 41,
+          "character_count": 1346
+        },
+        {
+          "page_id": "openstax_calculus_v1_p42",
+          "page_number": 42,
+          "character_count": 1489
+        },
+        {
+          "page_id": "openstax_calculus_v1_p43",
+          "page_number": 43,
+          "character_count": 1826
+        },
+        {
+          "page_id": "openstax_calculus_v1_p44",
+          "page_number": 44,
+          "character_count": 1998
+        },
+        {
+          "page_id": "openstax_calculus_v1_p45",
+          "page_number": 45,
+          "character_count": 649
+        }
+      ],
+      "total_characters": 45968
+    }
+  ]
+}

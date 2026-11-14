@@ -1,0 +1,198 @@
+{
+  "source_id": "openstax_calculus_v1",
+  "source_title": "OpenStax Calculus Volume 1",
+  "questions": [
+    {
+      "id": "Q01",
+      "split": "dev",
+      "question": "Theo tài liệu, một hàm số ánh xạ các phần tử từ miền xác định sang miền giá trị theo quy tắc nào?",
+      "expected_answer": "Mỗi phần tử trong miền xác định được ánh xạ tới chính xác một phần tử trong miền giá trị.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 17,
+      "evidence_quote": "A function maps every element in the domain to exactly one element in the range."
+    },
+    {
+      "id": "Q02",
+      "split": "dev",
+      "question": "Hai đầu vào khác nhau của một hàm có thể cho cùng một đầu ra không?",
+      "expected_answer": "Có. Hai đầu vào khác nhau có thể được ánh xạ tới cùng một đầu ra, miễn là mỗi đầu vào chỉ có một đầu ra.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 17,
+      "evidence_quote": "two different inputs can be sent to the same output."
+    },
+    {
+      "id": "Q03",
+      "split": "dev",
+      "question": "Khi một hàm được mô tả bằng phương trình nhưng không chỉ rõ miền xác định, tài liệu quy ước miền xác định như thế nào?",
+      "expected_answer": "Miền xác định được lấy là tập hợp tất cả các số thực mà tại đó hàm cho giá trị thực.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 17,
+      "evidence_quote": "the domain is taken to be the set of all real numbers, for which is a real number."
+    },
+    {
+      "id": "Q04",
+      "split": "dev",
+      "question": "Theo ví dụ về nhiệt độ trong ngày, nhiệt độ thay đổi theo thời gian như thế nào?",
+      "expected_answer": "Nhiệt độ giảm, sau đó tăng, rồi lại giảm.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 21,
+      "evidence_quote": "the temperature decreases, then increases, and then decreases again."
+    },
+    {
+      "id": "Q05",
+      "split": "dev",
+      "question": "Làm thế nào để kiểm tra một tập hợp điểm trên mặt phẳng có biểu diễn đồ thị của hàm số hay không?",
+      "expected_answer": "Dùng phép thử đường thẳng đứng: mỗi đường thẳng đứng chỉ được giao với tập hợp điểm nhiều nhất một lần.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 23,
+      "filter": {
+        "section": "1.1"
+      },
+      "evidence_quote": "every vertical line intersects the set of points, at most, once."
+    },
+    {
+      "id": "Q06",
+      "split": "dev",
+      "question": "Muốn tìm các nghiệm (zeros) của một hàm số, ta cần giải phương trình nào?",
+      "expected_answer": "Ta giải phương trình f(x) = 0.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 23,
+      "evidence_quote": "To find the zeros, solve"
+    },
+    {
+      "id": "Q07",
+      "split": "dev",
+      "question": "Một hàm số có thể tăng trên một khoảng và giảm trên một khoảng khác không?",
+      "expected_answer": "Có. Một hàm số có thể tăng trên một hoặc một số khoảng và giảm trên những khoảng khác.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 25,
+      "evidence_quote": "a function can be increasing on some interval or intervals and decreasing over a different interval or intervals."
+    },
+    {
+      "id": "Q08",
+      "split": "dev",
+      "question": "Theo ví dụ về hoạt động kinh doanh, lợi nhuận được xác định từ hàm doanh thu và hàm chi phí như thế nào?",
+      "expected_answer": "Lợi nhuận được xác định bằng doanh thu trừ đi chi phí.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 26,
+      "evidence_quote": "the profit on the manufacture and sale of items is defined as"
+    },
+    {
+      "id": "Q09",
+      "split": "dev",
+      "question": "Thứ tự hợp thành hai hàm số có ảnh hưởng đến kết quả không?",
+      "expected_answer": "Có. Thứ tự hợp thành các hàm số có thể tạo ra các hàm hợp khác nhau.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 29,
+      "evidence_quote": "the order in which we compose functions matters."
+    },
+    {
+      "id": "Q10",
+      "split": "dev",
+      "question": "Ví dụ về giá khuyến mãi và phiếu giảm giá bổ sung minh họa nguyên tắc gì khi hợp thành hàm số?",
+      "expected_answer": "Thứ tự hợp thành các hàm số có thể ảnh hưởng đến kết quả.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 30,
+      "filter": {
+        "section": "1.1"
+      },
+      "evidence_quote": "the order in which we compose functions matters."
+    },
+    {
+      "id": "Q11",
+      "split": "dev",
+      "question": "Đồ thị của hàm số lẻ có tính đối xứng như thế nào?",
+      "expected_answer": "Đồ thị của hàm số lẻ đối xứng qua gốc tọa độ.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 31,
+      "evidence_quote": "An odd function is symmetric about the origin."
+    },
+    {
+      "id": "Q12",
+      "split": "dev",
+      "question": "Miền xác định của hàm giá trị tuyệt đối là tập hợp nào?",
+      "expected_answer": "Miền xác định là tập hợp tất cả các số thực.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 32,
+      "evidence_quote": "Since the absolute value function is defined for all real numbers, the domain of this function is"
+    },
+    {
+      "id": "Q13",
+      "split": "dev",
+      "question": "Đồ thị của một hàm tuyến tính có dạng hình gì?",
+      "expected_answer": "Đồ thị của bất kỳ hàm tuyến tính nào cũng là một đường thẳng.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 39,
+      "evidence_quote": "the graph of any linear function is a line."
+    },
+    {
+      "id": "Q14",
+      "split": "dev",
+      "question": "Dấu của hệ số góc cho biết hướng của đường thẳng như thế nào khi đi từ trái sang phải?",
+      "expected_answer": "Hệ số góc dương: đường thẳng hướng lên; hệ số góc âm: đường thẳng hướng xuống; hệ số góc bằng không: đường thẳng nằm ngang.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 39,
+      "filter": {
+        "section": "1.2"
+      },
+      "evidence_quote": "If the slope is positive, the line points upward when moving from left to right. If the slope is negative, the line points downward when moving from left to right. If the slope is zero, the line is horizontal."
+    },
+    {
+      "id": "Q15",
+      "split": "dev",
+      "question": "Trong dạng hàm tuyến tính được tài liệu trình bày, hệ số của biến và hệ số tự do lần lượt biểu thị điều gì?",
+      "expected_answer": "Hệ số của biến biểu thị hệ số góc; hệ số tự do biểu thị tung độ giao điểm với trục y.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 40,
+      "evidence_quote": "the coefficient is the slope of the line."
+    },
+    {
+      "id": "Q16",
+      "split": "test",
+      "question": "Vì sao một đường thẳng đứng không thể là đồ thị của một hàm số?",
+      "expected_answer": "Vì đường thẳng đứng không biểu diễn đồ thị của một hàm số; nó không thể được biểu diễn bằng dạng hệ số góc - tung độ gốc hoặc dạng điểm - hệ số góc của hàm tuyến tính.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 40,
+      "evidence_quote": "a vertical line does not represent the graph of a function"
+    },
+    {
+      "id": "Q17",
+      "split": "test",
+      "question": "Một đa thức có bậc 2 được gọi là hàm gì?",
+      "expected_answer": "Đa thức bậc 2 được gọi là hàm bậc hai (quadratic function).",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 42,
+      "evidence_quote": "A polynomial function of degree 2 is called a quadratic function."
+    },
+    {
+      "id": "Q18",
+      "split": "test",
+      "question": "Khi đầu vào của hàm số tăng lớn, đồ thị tiến ngày càng gần đường tiệm cận ngang như thế nào?",
+      "expected_answer": "Đồ thị của hàm số tiến ngày càng gần đường thẳng tiệm cận ngang.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 43,
+      "filter": {
+        "section": "1.2"
+      },
+      "evidence_quote": "the graph of the function gets closer to the line"
+    },
+    {
+      "id": "Q19",
+      "split": "test",
+      "question": "Nếu không thể dễ dàng phân tích một đa thức bậc hai thành nhân tử để tìm nghiệm, tài liệu đề xuất sử dụng phương pháp nào?",
+      "expected_answer": "Sử dụng công thức nghiệm bậc hai (quadratic formula).",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 44,
+      "evidence_quote": "If not, we make use of the quadratic formula."
+    },
+    {
+      "id": "Q20",
+      "split": "test",
+      "question": "Theo tài liệu, yếu tố nào quyết định hành vi ở vô cực của một đa thức?",
+      "expected_answer": "Số hạng dẫn đầu của đa thức quyết định hành vi ở vô cực.",
+      "gold_source_id": "openstax_calculus_v1",
+      "gold_page": 43,
+      "evidence_quote": "the leading term of the polynomial determines the end behavior."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "A": {
+    "chunk_count": 119,
+    "total_characters": 50181,
+    "min_length": 1,
+    "max_length": 500,
+    "mean_length": 421.69,
+    "median_length": 499,
+    "embedding_dimensions": 384,
+    "ingestion_seconds": 7.691,
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "chunking": "fixed_size_500_overlap_50",
+    "metadata_filter_enabled": false,
+    "storage": "PostgreSQL + pgvector",
+    "similarity": "cosine"
+  },
+  "B": {
+    "chunk_count": 106,
+    "total_characters": 45930,
+    "min_length": 10,
+    "max_length": 500,
+    "mean_length": 433.3,
+    "median_length": 499.0,
+    "embedding_dimensions": 384,
+    "ingestion_seconds": 7.749,
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "chunking": "paragraph_max_500",
+    "metadata_filter_enabled": false,
+    "storage": "PostgreSQL + pgvector",
+    "similarity": "cosine"
+  },
+  "C": {
+    "chunk_count": 106,
+    "total_characters": 45930,
+    "min_length": 10,
+    "max_length": 500,
+    "mean_length": 433.3,
+    "median_length": 499.0,
+    "embedding_dimensions": 384,
+    "ingestion_seconds": 6.278,
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "chunking": "paragraph_max_500",
+    "metadata_filter_enabled": true,
+    "storage": "PostgreSQL + pgvector",
+    "similarity": "cosine"
+  }
+}
