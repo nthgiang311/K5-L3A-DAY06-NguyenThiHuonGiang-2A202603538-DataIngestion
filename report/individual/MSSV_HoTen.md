@@ -118,20 +118,25 @@ Thời gian là thời gian embedding và lưu trữ được ghi nhận trong l
 
 ### 3.2. Đánh giá thủ công
 
-| Strategy | Coherence trung bình /2 | Metadata đủ và đúng | Filter tuân thủ | Grounding |
-|---|---|---|---|---|
-| A | Chưa chấm (10 mẫu) | Chưa tổng hợp | N/A với câu không lọc | Chưa chấm |
-| B | Chưa chấm (10 mẫu) | Chưa tổng hợp | N/A với câu không lọc | Chưa chấm |
-| C | Chưa chấm (10 mẫu) | Chưa tổng hợp | Chưa tổng hợp | Chưa chấm |
+| Strategy | Coherence trung bình /2 | Metadata đủ và đúng | Filter tuân thủ | Grounding trung bình /2 |
+|---|---:|---|---|---:|
+| A | 1,4 | Chưa tổng hợp | N/A với câu không lọc | 0 |
+| B | 1,4 | Chưa tổng hợp | N/A với câu không lọc | 0 |
+| C | 1,4 | Chưa tổng hợp | Chưa tổng hợp | 0 |
 
-Các file đánh giá đã được tạo nhưng chưa hoàn thành việc chấm điểm:
+**Nhận xét:**
+
+- **Coherence:** Cả ba chiến lược đều đạt trung bình 1,4/2. Các chunks nhìn chung vẫn giữ được nội dung chính, nhưng một số đoạn bị cắt giữa câu, thiếu ngữ cảnh hoặc chứa các dòng tiêu đề/chân trang không có nhiều giá trị học thuật.
+- **Grounding:** Cả ba chiến lược đều đạt 0/2 trên 5 câu được đánh giá mỗi chiến lược. Các kết quả Top-3 chưa cung cấp bằng chứng trực tiếp để trả lời những câu hỏi tương ứng.
+- **Metadata và filter:** Chưa tổng hợp điểm đánh giá thủ công cho hai tiêu chí này nên chưa đủ cơ sở để kết luận chiến lược C tuân thủ filter tốt hơn chiến lược B.
+
+Các file đánh giá được lưu tại:
 
 - `manual_coherence.csv`: 30 mẫu, 10 mẫu mỗi chiến lược.
 - `manual_grounding.csv`: 15 mẫu, 5 câu mỗi chiến lược.
 - `metadata_review.csv`: 45 dòng, tương ứng Top-3 của 5 câu test cho mỗi chiến lược.
 
-Do chưa có điểm và nhận xét của người đánh giá, báo cáo không tự tính trung bình hoặc tỷ lệ đánh giá thủ công.
-
+**Lưu ý:** Điểm grounding bằng 0 phản ánh chất lượng bằng chứng trong kết quả truy xuất được đánh giá, không có nghĩa tài liệu gốc không chứa câu trả lời. Metadata và filter vẫn cần được tổng hợp riêng trước khi đưa ra kết luận
 ### 3.3. Trace và output
 
 Các kết quả được lưu tại `starter/outputs/`:
