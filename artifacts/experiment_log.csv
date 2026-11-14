@@ -1,4 +1,5 @@
-strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+
+experiment_id,strategy,chunking_method,chunk_size,overlap,metadata_filter,hypothesis,controlled_variables,evaluation
+EXP01,A,fixed_size,500,50,none,"Fixed-size chunking provides consistent chunk lengths but may split semantic units.","Same corpus; same embedding model; same vector store; cosine distance; Top-3.", "Hit@1; Evidence Hit@3; chunk count; processing time"
+EXP01,B,paragraph_based,500,0,none,"Paragraph-based chunking may preserve semantic context better than fixed-size chunking.","Same corpus; same embedding model; same vector store; cosine distance; Top-3.", "Hit@1; Evidence Hit@3; chunk count; processing time"
+EXP01,C,paragraph_based,500,0,"section","Adding section metadata filtering may narrow retrieval to more relevant content.","Same corpus; same embedding model; same vector store; cosine distance; Top-3; same paragraph chunking as B.", "Hit@1; Evidence Hit@3; metadata completeness; filter compliance"
